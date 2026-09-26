@@ -1,0 +1,19 @@
+{
+  "name": "human-copywriting",
+  "description": "Use when writing or rewriting publishable prose (articles, landing pages, case studies, proposals, social, emails) so it reads as if a person chose every sentence. Edits structure before wording, ranks AI tells by strength, locks facts and never invents detail.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Made By Beings",
+    "url": "https://madebybeings.com"
+  },
+  "homepage": "https://github.com/madebybeings/human-copywriting-skill",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "copywriting",
+    "editing",
+    "prose",
+    "humanize",
+    "ai-writing"
+  ]
+}

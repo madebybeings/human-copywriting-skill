@@ -1,0 +1,23 @@
+Human Copywriting skill
+Copyright (c) 2026 Made By Beings. MIT licence (see LICENSE).
+
+This project adapts ideas and structure from the following works.
+
+human-voice
+  https://github.com/stephenoffer/human-voice
+  Copyright (c) 2026 Stephen Offer. MIT licence.
+  Used for: the editing order, fact-integrity rules, rhythm mechanics and fix/generate modes.
+
+humanizer
+  https://github.com/blader/humanizer
+  Copyright (c) 2025 Siqi Chen. MIT licence.
+  Used for: grouping tells as "staging instead of stating", strongest-first ordering and the
+  check for tells that survive a rewrite. Descriptions and examples are rewritten.
+
+Wikipedia: Signs of AI writing
+  https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing
+  CC BY-SA 4.0. Category ideas only, paraphrased; no text is copied.
+
+StoryScope (Russell et al., 2026)
+  https://arxiv.org/abs/2604.03136
+  CC0 1.0. Findings summarised in references/research.md and references/ai-tells.md.
